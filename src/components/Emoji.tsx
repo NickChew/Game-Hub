@@ -1,4 +1,4 @@
-import React from 'react';
+
 import bullsEye from "../assets/Bulls-eye.svg";
 import thumbsUp from "../assets/thumbs-up.svg";
 import meh from "../assets/meh.svg";
